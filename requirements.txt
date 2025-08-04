@@ -1,0 +1,14 @@
+dotenv
+streamlit
+PyPDF2
+langchain
+langchain-community
+langchain-core
+langchain-groq
+groq
+faiss-cpu
+sentence-transformers
+transformers
+torch
+speechrecognition
+pydub
