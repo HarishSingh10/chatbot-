@@ -1,0 +1,31 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore virtual environments (both possible folders)
+venv/
+myenv/
+
+# Ignore environment variable files
+.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Ignore MacOS and Windows system files
+.DS_Store
+Thumbs.db
+
+# Ignore PDFs or any temporary documents you may upload
+*.pdf
+
+# Ignore Streamlit logs and history
+.streamlit/
+
+# Ignore compiled files, logs
+*.log
+*.sqlite3
